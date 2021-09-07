@@ -8,4 +8,9 @@ The entry point for the app can be found in /src/App.svelte.
 See svelte.dev to get started with Svelte!
 
 ## Customizations:
-Using PostCSS and compression
+Still bare bones.
+
+Using PostCSS and compression.
+
+Made by Matteo Paz.
+
